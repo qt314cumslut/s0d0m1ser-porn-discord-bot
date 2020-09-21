@@ -1,5 +1,5 @@
 # s0d0m1ser Discord Bot
-A lightweight, short cool down, porn gif bot for discord curated by qt3.14cumslut.
+A lightweight, short cool down, porn gif bot for discord with gifs curated by qt3.14cumslut.
 
 [Add s0d0m1ser to your server](https://discord.com/api/oauth2/authorize?client_id=756209075494060113&permissions=0&scope=bot)
 
