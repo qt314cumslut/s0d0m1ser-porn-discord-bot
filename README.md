@@ -1,5 +1,5 @@
 # s0d0m1ser Discord Bot
-A lightweight, short cool down, porn gif bot for discord with gifs curated by qt3.14cumslut.
+*A lightweight, short cool down, porn gif bot for discord with gifs curated by qt3.14cumslut.*
 
 Tired of discord bots using giphy? S0d0m1ser is a lightweight nodejs & discord.js porn bot which sends nsfw gifs AND has a short cooldown period of 10 seconds. This bot actually hot gifs because I spent my sweet ass time curating the sexiest materials for your viewing pleasure. Also did I mention the cooldown period? 10 seconds between each gif means no wasting time reaching that sweet finish.
 
